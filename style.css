@@ -2,6 +2,7 @@ html{
     overflow-x: hidden;
     max-width: 100%;
 }
+
 main {
     background-color: black;
 }
@@ -32,13 +33,16 @@ h2{
     margin-left: 20px;
     color: white !important;;
 }
+
 .card{
     padding: 8px;
     margin: 8px;
 }
+
 .card-text{
  height: 150px;   
  padding: 0px;
+ text-align: justify;
 }
 
 .row {
